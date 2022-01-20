@@ -1,3 +1,2 @@
-# cmsc388T-web-template
-
-Website Template for Project 3
+# Website for Project 3
+- 
